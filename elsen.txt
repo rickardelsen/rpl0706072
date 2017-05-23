@@ -1,2 +1,4 @@
 NIM : 0706072
 Nama : Rickard Elsen
+Jurusan : Informatika
+STT-Garut
